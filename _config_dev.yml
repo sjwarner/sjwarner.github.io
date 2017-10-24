@@ -1,0 +1,16 @@
+# Site Settings
+title: I'm Samuel Warner.
+email: mrsamjw@gmail.com 
+description: >
+  This is my site! I'll aim to write about programming, hobbies and general
+  life here.
+baseurl: ""
+url: "http://localhost:4000"
+twitter_username: sjwarner_
+github_username: sjwarner 
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
