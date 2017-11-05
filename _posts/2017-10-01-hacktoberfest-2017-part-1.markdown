@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hacktoberfest 2017 - Part One"
-date: 2017-10-10
+date: 2017-10-01
 tags: work black-pepper software life open-source github code hacktoberfest hacktober
 ---
 For those of you that are involved in the world of open source software, you may know that it is currently "Hacktoberfest".
@@ -16,8 +16,8 @@ Naturally I was really excited to hear about such a great community project, and
 
 To be honest, it was actually very daunting. While I have contributed to group projects before, that was always with coursemates or colleagues. The people I would be collaborating with for Hacktoberfest would be strangers. Strangers, working out if the code I produced was worthwhile and clean enough to merge in to their projects.
 
-However, since Hacktoberfest actually began, I have become more at ease with the idea of helping out with open source projects. Becoming part of a project's community has helped massively with nerves, and having used the software I have begun contributing to gives me a sense of ownership and a better understanding of what I want in the system.
+Nonetheless, with Hacktoberfest coming closer, I wanted to set myself up to be successful during this month of cooperation. To make myself more at ease with the idea of helping out with open source projects, I prepared myself by becoming more active in certain online communities I use day-to-day at work, and secondarily familiarising myself with the online etiquette of open source software. Becoming part of a project's community has helped massively with nerves, and having used the software I have begun contributing to gives me a sense of ownership and a better understanding of what I want in the system. Familiarising myself with the protocol around GitHub has made me more confident that what I am doing is 'correct'.
 
-I won't give too many details away yet, but I plan on completing Hacktoberfest and becoming a regular contributor to open source code, and I encourage anyone reading to do the same, especially given the fantastic excuse of Hacktoberfest!
+I won't give too many details away yet, but I plan on completing Hacktoberfest and becoming a regular contributor to open source code, and I encourage anyone reading to do the same, especially given the fantastic excuse of Hacktoberfest! If it feels a bit scary, I'd suggest following the two tips in the paragraph above.
 
 Keep an eye out for a future blog post in which I talk more about which community and projects I have been / will be contributing to over the course of October, and my top tips around getting involved in the first place.
