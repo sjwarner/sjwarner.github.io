@@ -41,4 +41,6 @@ What I failed to think about was that Hacktoberfest was possibly the most busy t
 
 And it still doesn't. I contributed all the way up to the end of October, and even now in November I have some bugs and features I have picked up and plan to fix or implement soon. My t-shirt and sticker pack are in the post, but I still want to give. I've found it such a good way to learn and contribute to tools I use daily - and the first time I found (and used) my own code on exercism, I was truly excited. I still get that rush when I stumble across my code - even when it is for the 10th time.
 
-Hacktoberfest 2017 has been a great personal success, and I hope many of you out there have also found it the same. I cannot speak of it highly enough, and urge readers to take part next year (or even pick a project to contribute to in the meantime). It's only 11 more months...
+If you're interested in seeing my contributions, you can take a look [here](https://hacktoberfest.digitalocean.com/stats/sjwarner-bp).
+
+I'll just finish off by saying that Hacktoberfest 2017 has been a great personal success, and I hope many of you out there have also found it the same. I cannot speak of it highly enough, and urge readers to take part next year (or even pick a project to contribute to in the meantime). It's only 11 more months...
