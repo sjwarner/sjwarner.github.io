@@ -5,6 +5,8 @@ date: 2017-11-01
 tags: work black-pepper software life hacktoberfest 2017
 ---
 
+<img src="/assets/hacktoberfest-orange.png" alt="Hacktoberfest Banner" style="width: 100%;"/>
+
 October is over for another year, and along with it Hacktoberfest 2017. It hasn't been a slow month for me by any means. Between going back to my parent's house, days out (I had a fantastic time at the British Library recently), work, and hanging out with friends, I haven't had much free time. However, in all the mayhem I did manage to find time to contribute to the world of open source software for the very first (and second, and third...) time.
 
 If you have read my other two blog posts about Hacktoberfest 2017, you'll know that my workplace has been fantastically supportive in getting employees involved with Hacktoberfest and open source, and you'll have seen my top 5 tips about going out there and doing it yourself! If you haven't, where have you been?! But seriously - a quick catchup. Hacktoberfest is an annual event that dedicates October to contributing to open source software, in collaboration with DigitalOcean and GitHub. Programmers the world over find a project they are interested in, contributing to thousands of repos. Upon completing 4 pull requests, participants are promised a glorious t-shirt, sticker pack and most importantly gain the pride of saying that they completed Hacktoberfest 2017.

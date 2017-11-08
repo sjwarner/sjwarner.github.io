@@ -4,6 +4,9 @@ title: "Hacktoberfest 2017 - Part One"
 date: 2017-10-01
 tags: work black-pepper software life open-source github code hacktoberfest hacktober
 ---
+
+<img src="/assets/hacktoberfest-purple.png" alt="Hacktoberfest Banner" style="width: 100%;"/>
+
 For those of you that are involved in the world of open source software, you may know that it is currently "Hacktoberfest".
 
 For those of you that do not know this (I was also completely unaware) this is a month dedicated to public contributions to open source software, mainly in collaboration with DigitalOcean and GitHub.
