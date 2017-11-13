@@ -1,0 +1,74 @@
+---
+layout: post
+title: "AstonHack 2017"
+date: 2017-11-13
+tags: work black-pepper software life open-source github code hackathon astonhack
+---
+
+<img src="/assets/astonhack.jpg" alt="Hacktoberfest Banner" style="width: 100%;"/>
+
+As a part of work, I've been lucky enough to take part in some pretty cool events (and I'm only 4 months in)! The most recent of these events was AstonHack 2017, where some Black Pepper staff attended as a "Silver Sponsor". It's been a fantastic weekend, and I'll detail my experiences below - but first, for the uninitiated...
+
+*What is AstonHack?*
+
+AstonHack 2017 is the third annual hackathon, hosted at Aston University as part of the MLH 2018 season. They invite student hackers from all over the UK to join in for 24 hours of frenzied designing, coding and making.
+
+*But what is a hackathon?*
+
+A hackathon an event in which teams of people work together to build something over a continuous period - in this case, 24 hours (some teams even go without sleep)! At AstonHack, sponsors present themes and challenges, for which prizes will be awarded. After the hacking ends the teams present all of their amazing and innovative hacks to the judges (and all of the other hackers) in a competition to win various prizes.
+
+*MLH? Who are they?*
+
+Major League Hacking (MLH) are the official student hacking league, and have a reach that spans tens of thousands of people over the course of 65 hackathons a year. They bring the latest hardware, bags of enthusiasm, and (most importantly) stacks of stickers, to allow the weirdest and wackiest hacks possible!
+
+*Now, on to my experience... Day One*
+
+As a student, I had heard of hackathons happening on campus and in the local area, but never actually managed to pull myself along for the entirety of an event (and even the times I turned up, I never committed myself to an all-night coding marathon - bed was always far too tempting), so I wasn't too sure what exactly I was getting in to.
+
+Luckily, I wasn't on my own. Simon Jones and Nik Mouzourides both also attended, each with more experience of MLH events than I had. After being given a quick run down of what was to come by Simon, we headed off on the short journey up the M6 to Aston University.
+
+Upon arrival, we were greeted by the organisers and taken upstairs to the hack space. The three seminar rooms that the students of Aston will be familiar with became one large suite of creativity and code. We set up and chatted to some eager hackers before climbing several more flights of stairs to the opening ceremony.
+
+It was fantastic. As the time edged closer to 1pm (when hacking commences) you could feel the electricity in the room. Each sponsor came to the front of the presentation hall and issued a challenge to the hackers, with the promise of a tech-y prize for best solution. As Black Pepper, we issued the challenge of "Hacking the News" - something to generate / detect / filter 'fake news'. We had left our task super open-ended to allow the student creativity to flow.
+
+As more and more challenges were issued (including best hardware hack, most original domain name, and best dinosaur related hack), the room became more and more abuzz with discussion, and once the final problem was set, the hackathon was declared officially open.
+
+The hacking space was then flooded with a sea of students collaborating and setting about their projects. Just from walking around and chatting to some of the participants at this early stage you could feel the very real sense of enthusiasm that was radiating from them.
+
+The three of us stayed around, walking about and chatting to the students late in to the afternoon, seeing ideas and concepts being scrawled down in to algorithms and code, before popping up as working proofs of concept infront of our eyes.
+
+Unfortunately, similarly as to when I was a student myself, I could feel my bed calling out for me - so I did go home overnight and get some rest (boo, I know, I am boring).
+
+*Day Two*
+
+The next morning I woke up bright and early, and along with Simon headed back up the M6.
+
+As we arrived at Aston University and re-entered the hacking space, there was as much chat and laughter as there had been 18 hours prior, even through the all-night hacking! I was impressed, and we quickly set about walking around to see the developments that occurred overnight.
+
+It was staggering, some of the progress that had been made. In less than a day, teams had gone from brainstorming ideas to working software.
+
+I had also missed out on going up to the hardware lab on day one, purely because of how sucked in to the software side of development I was, but after managing to pull myself away from the projects on display in the hack space, I headed over to the "makers lab". In this room, a faint smell of solder lingered as people were making circuits and developing projects on breadboards.Wires were everywhere (including a set of cables that had one end in some circuitry, and the other in bunch of bananas).
+
+There were equally impressive things happening in this room. LED displays, Raspberry Pis, Qualcomm boards, remote control cars - you name any piece of hardware and it seemed to magically appear. Wandering around, you could see people pulling concentrated faces as they paired their hardware with their software.
+
+As I walked and talked, you could see that while the hackers were tired, they were still as enthused as before. I had several really interesting conversations regarding some of the hardware hacks, ranging from people confident of their fully working and polished projects all the way to people that were worried their creations could blow up! Either way, each team had a fun and unique product, all of which were super interesting.
+
+With the time approaching 1pm (end of hacking), the teams seemed to get a second wind - typing became more frenzied, devpost opened for teams to submit their projects, and entries began to trickle in.
+
+Far too soon, 1pm came, hacking stopped, and a well-deserved lunch was served. The atmosphere became much more relaxed, and as food was eaten, the hackers (and sponsors) made their way downstairs to the closing ceremony.
+
+The closing ceremony consisted of each team showcasing their hack, while the judges made notes. Every single showcase was amazing in its own way - they all varied, from the hilarious to the more serious (but still overwhelmingly impressive). I cannot explain how fabulous **ALL* of these projects were, but I'll quickly list a few of my personal favourites:
+* Cosmic Compass - a hardware hack that locates and points to objects in the solar system, including the International Space Station and the major planets, Moon, and Sun.
+* Barry the Sweet Release Dinosaur and Friends - The trolley problem, but with trains and dinosaurs instead.
+* Mobile Orchestra - a way for people to join together to make music using phone keypresses.
+* Fakt News - a Chrome extension that gives a rating of trust when browsing news stories.
+
+Fakt News was in fact the winner of our Black Pepper "Fake News" challenge. We were really impressed with the clarity of their solution, and how integrated the service they provided was. The team that created it were really proud of their product, and I personally was amazed at what had been achieved in 24 hours.
+
+There were over 30 submissions, and their is not space here to write about how fantastic each one was individually, but [here](https://astonhack2017.devpost.com/submissions) is the link to devpost, where every submission for AstonHack 2017 can be found. It is well worth your time.
+
+*Rounding Off*
+
+I was excited for this event to come around, and rightly so. The people attending were so creative and positive in their work. I was genuinely impressed by every single hack, and I am so glad I was given the oppurtunity to be a part of such a fantastic event.
+
+Congratulations to every single team (without you the hacks would never be created), and the organisers - you put on something really special.
