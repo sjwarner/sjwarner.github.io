@@ -1,0 +1,68 @@
+---
+layout: post
+title: "Brumhack 2017"
+date: 2017-11-20
+tags: software life hacking mlh hackathon brumhack birmingham
+---
+
+Just one week after volunteering my time to help represent Black Pepper at Astonhack 2017, my colleague Nik and myself had both signed up to and were attending Brumhack 2017, another nearby MLH sanctioned student hackathon.
+
+*Student hackathon? But aren't you a grad?*
+
+Calm down, calm down - we are both luckily still eligible for MLH student hackathons for up to one year after graduation! It's one of MLH's rules, I suspect in order to ween us away from these events a little less painfully.
+
+Well, seasoned hackers that have attended many of these events anyway.
+
+Funnily enough, for Nik and myself, Astonhack was our first real exposure to how awesome the world of hackathons actually is. After seeing the quality and innovation the participants had produced in 24 hours, we were inspired to attend as many of these events as is reasonably possible in our final year of eligibility.
+
+So, as the weekend rolled around, we set off on the short train journey to Birmingham University. After eventually finding where we were meant to go (Nik the trusty tour guide saved us from my wandering), we signed in and set up- excited to see what the sponsor's challenges were.
+
+Noon soon came, the sponsors presented their challenges, and we were... Puzzled. At Astonhack, the challenges were more defined (though still pretty loose - 'best dinosaur hack' and 'best fake news hack' were two), whereas here it was far more up-for-grabs. There were one or two APIs we as participants were encouraged to use, but other than that prizes were just issued for innovation.
+
+Of course, this isn't a bad thing. However, Nik and I had come with no ideas, willing to be pushed or prodded in whatever direction by whoever was offering a cool prize.
+
+As this wasn't happening, we had to have a quick session of spitballing ideas. The outcome from that was fairly conclusive. Last week, all of the best hacks (in our opinion) were hardware based. This gave us a good enough prompt to get up and explore the hardware labs.
+
+While MLH provide a variety of their own hardware, and others had brought their own, this event was a little bit unique (at least to me) in the fact that Birmingham University's computer society had their own device lab that we could take advantage of. Nik and I looked through, and while the 'standard' stuff was there (raspberry pis, amazon echo dots, etc.) they also had a couple of things we hadn't heard of. What we eventually settled on was the Leap Motion, an IR sensor with an entire SDK, allowing us to capture hand movements and do something with that information.
+
+But what something? My first suggestion to Nik was that we could make a mock-theremin thing, but I thought it was too obvious.
+
+It turns out that it wasn't.
+
+The number of times people asked what a theremin was showed me this might be a bit more innovative than I first thought.
+
+Anyway - on with the post. As Nik and I are both studying for the OCAJP8 (see my last blog), we decided it was a good idea to use Java as the backbone for the project (Leap Motion offers a Java SDK, along with a few other languages).
+
+So, we had a language, some hardware, and an idea. Now the fun bit - piecing them all together.
+
+Nik and I started out, getting our laptops set up with the Leap Motion's SDK and necessary drivers. This, unfortunately, turned out to be slightly more complex than we'd estimated. The SDK didn't get along with Linux (a surprise to us, as we assumed that would be the easier OS to install it on). This caused some issues, as Nik was running Ubuntu. Luckily, my Macbook was fine. We split out the division of labour to Leap Motion SDK exclusive areas of development, and wider Java development, with Nik taking the brunt of the non-Leap programming.
+
+(We were later reassured that hardware hacks never go to plan, and getting them up and running is half of the battle).
+
+Soon after getting ourselves set up and on our way to making music, we were joined by another hacker called Chloe, as she didn't have a team. This was really nice, and shows how easy it is to go to an event on your own! Chloe was a maths graduate interested in coding, and as such she really helped out over the course of the project, giving an analytical and theoretical analysis, while also contributing to the codebase.
+
+By around 8 hours in to the hack (though we had been stopping and starting, conversation and food the two main distractions) we had a [working theremin](https://www.youtube.com/watch?v=3XFLQmUshrs). This was great, the only negative being that because we'd used a MIDI library, the output sound wasn't quite as continuous as we'd hoped. Either way, if you check out the video, you'll hear that it sounded pretty authentic!
+
+After some more tweaking and a little bit of code tidy-up, Nik and Chloe both went home for some sleep, and I did the crazy thing of staying up (it would have been a long way home for me)! Overnight, games were played, midnight pizza was eaten, and more coding was done. Around 20 people stayed for the entire night, and the atmosphere of work helped me keep coding.
+
+Because the theremin was done and dusted, I set off on a new side-project to show the rest of my team in the morning. Essentially, I made a rock-paper-scissors game using the Leap Motion as an input sensor. It was pretty reliable, but sometimes got confused between paper and rock... Either way, at this point I was a little too tired to worry too much about that, and proceeded to make it work over TCP!
+
+The idea of this was to allow people in different physical locations to play a (primarily) physical game.
+
+As the time passed, and my tiredness set further in, I continued to tidy up the code and waited for Chloe and Nik to return. Surprisingly this came around very quickly, and it was pretty easy for me to catch them up on my overnight progress. I then handed the project off to them and was essentially a second pair of eyes to look over code and talk about ideas (we had to formulate a presentation too).
+
+Once (second) noon struck, hacking stopped and all teams presented their hacks. I personally found some of the other hacks produced to be of a really high quality, from a Unity-based date with Octocat to an Alexa app that helped out with cooking.
+
+Time and time again, the quality of hackathon projects really impresses me.
+
+We were one of the last teams to present (our hastily thought of team name 'Team Weeeewaaahhhhwoooooowahhhh' got a few laughs), and luckily everything went to plan - well, as well as condensing everything in to two minutes could have gone!
+
+All of our functionality was demonstrated, and Chloe even managed a slightly squeaky rendition of "Mary had a little lamb"! We were all very pleased as we returned to our seats ("I demo'ed" stickers in hand).
+
+The presentations finished soon after this, and the judges left to deliberate. In the meantime, the highlights of the weekend were recapped by the organisers, and Nik and I each managed to grab an MLH Season 2018 t-shirt thrown in to the crowd!
+
+Soon, the judges returned and gave their results. There were some fantastic projects that won (including the Amazon Echo app for cooking from a list of ingredients) - but much to our suprised we won both "Best Hardware Hack" from Bloomberg, and "Best use of domain.com" from MLH. For this, we were each rewarded with a Fitbit Blaze smartwatch, a Raspberry Pi Zero W and an MLH medal.
+
+Needless to say, we were surprised and delighted to have won. After posing for a couple of pictures and chatting to other participants, BrumHack 7.0 was officially ended, and we all made our ways home.
+
+This was a fantastic event, and I cannot thank all of the organisers and sponsors enough for facilitating a creative space for us to all come together. I am looking forward to my next hackathon - OxfordHack 2017!
