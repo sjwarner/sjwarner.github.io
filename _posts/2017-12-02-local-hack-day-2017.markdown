@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Local Hack Day 2017"
+date: 2017-12-02
+tags: software life hacking mlh hackathon warwick university local hack day localhackday 
+---
+
+As I seem to be on track to attend every nearby hackathon since my interest in MLH ballooned at Astonhack in November, the next on the list was Local Hack Day 2017. As the title states, it is certainly local! With hundreds of events across the globe, thousands of hackers spent the day working on a mini-project or attending the talks at whichever educational institute close to them was taking part.
+
+For me, this was going back to my alma mata, the University of Warwick, just a few miles from where I currently live. This was a welcome dose of nostalgia, and as I'd never attended one of these small satellite events before (or even heard of them) I was excited for a slight change of pace to the draining (but just as exciting) full-weekend hackathons.
+
+When I turned up in the morning to the Department of Computer Science, it was eerily quiet (I was maybe 15 minutes early, but I didn't think it would be that deserted)!
+
+Luckily after a couple of minutes, members of WarwickTech (the university's technology society) turned up and settled the handful of us in. We were informed of the running schedule (it was much shorter - only 10 hours for the whole day), including producing your own hack, a few talks, lunch and general socialising.
+
+Because the allocated time didn't seem enough to produce a big hack, I decided to team up with a fellow attendee (there were only about 15 of us) that hadn't been to any hackathon before. After explaining exactly how different this event was to regular MLH weekend hackathons, and encouraging them to attend a more 'normal' one too, we worked out a concept. It was simple enough, and was born from an email they'd sent earlier this week:
+
+> I had to send an email to my supervisor this week, but I was tearing my hair out trying to get the right tone of voice... I never really know how to talk to them - there is this weird kind of familiarity we have and we regularly chat in person, but it is still a teaching relationship.
+
+So that was it. We had to try and take a generic piece of text and put some spin on it. Give it a voice. Interesting.
+
+Those that know me will already be aware I think making computers do stuff that is inherently viewed as human is one of the coolest things a person can do in CS (my dissertation was what it was because of this opinion).
+
+But again, the time constraint was difficult here. Once introductions had been done, with talks and socialising factored out, we only had maybe 5 hours to produce a finished product. Pair this with keeping a partner with little programming experience (they were a visitor from the Maths department, wanting to explore technology) involved and engaged, and this meant compromising on a couple of aspects of development.
+
+But comprimise is good!
+
+As a huge believer in pair programming, (personally one of my favourite ways to learn and debate coding practises, and one in which I've been lucky enough to teach some friends too), catering to two people's needs and splitting driving time between the two of us meant that we were able to discuss design choices while making sure understanding of the codebase was mutual. It also meant that when an idea was too complex for both parties to understand, it could be veto'ed (hackathons are meant to be fun and engaging, not complex and prohibitively challenging)!
+
+We agreed on a toolset of Python, as I am somewhat familiar with it, and it seems like a good place for a less experienced hacker to start. Using some decidedly un-clever substitution algorithms and tone-of-voice dictionaries, we managed to come up with a working solution pretty quickly, before the first talk even!
+
+Tools were then downed in order to learn about Electron as one of the video-talks MLH were broadcasting worldwide. I say a talk, it was more of an interactive workshop - we followed along making a game of 'pairs' using Electron as an application warpper! It was my first experience with the tool, and I can see why it is used (I think Slack's desktop application uses Electron). It certainly is nice to be able to wrap a web app into a desktop application sometimes, but the amount of extra bloat that was pulled in just for a simple game of pairs (node_modules, I'm looking at you) was quite unappealing... Sure, it allowed the workshop to run quickly and without too much incident, but for a fairly simple app we ended up with some heavyweight cruft in our repos).
+
+After this lunch was served (yay, free pizza!) and we were all brought back for another talk, this time delivered in person by the CTO of a technology company.
+
+This talk was certainly far more engaging. We got a brief history of his career, challenges he'd faced and the decisions he'd made to end up as a CTO. This was quite eye-opening. A very rough GitHub repo [here](https://github.com/sjwarner/LocalHackDay2017Workshops) gives some detail about what was said. While not necessarily as informative as the workshop on Electron, it certainly was an inspiring hour. This is the kind of thing I really think helps avoid burnout. While not the same as an actual 'break' from coding, inspiring talks like this at weekend events or conferences have always helped to keep me afloat when I've been too exhausted from mindless tapping at keyboards.
+
+Once the talk was completed, hackers went back to their battlestations and the organisers made the rounds with freebies (swag included posters, stickers and badges!), and general chitchat picked up.
+
+Most of the attendees were doing coursework or contributing to open source, rather than making their own 10-hour hack. This was fun though, everyone showed off what they were working on, coursework pain-points were bonded over, and generally collaboration continued to grow.
+
+This is what made Local Hack Day feel so different to me - without prizes and competition, it was far more open and everyone sampled everyone else's projects!
+
+This attitude meant that while my partner and myself were still collaborating, we didn't progress to much further with our 'dumb' email voice changer, but neither of us minded too much! Learning here was varied and the discussions we had were far more stimulating than knocking out hundreds of lines of code.
+
+Towards the end of the day, a couple more talks took place. The CFO came back to chat about AI, and how we should see it as more than a research field (some cool examples in the repo about how it can produce super cool results when paired with hardware), shortly followed by a talk about blockchain.
+
+This final talk was the one I found least interesting. While I already have an understanding of how blockchain works, this talk was given from more of a 'hyped-up' perspective, discussing money and investment. Personally, I believe when taken out of the context of what it is (a giant distributed ledger system) and we focus on the monetary side of it, it's barely a computing talk anymore - certainly not a technically-minded one.
+
+To finish the day off, the organisers thanked everyone for coming (and briefly plugged WarwickHACK - coming up in February) before wrapping the event up.
+
+Local Hack Day certainly was different to anything I'd been to before, but just as valuable!
